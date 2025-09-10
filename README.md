@@ -1,5 +1,5 @@
 # Lead-Gen
-Lead-Gen is an app designed to make it easier for business owners to have a list of leads that can be automatically booked meetings through AI
+Lead-Gen is an app designed to make it easier for business owners to have a list of leads that can be automatically book meetings through AI
 Voice Agents.
 
 Requirements:
