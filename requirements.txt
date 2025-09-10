@@ -1,0 +1,22 @@
+# Core audio + processing
+sounddevice
+numpy
+scipy
+pydub
+
+# Speech-to-text
+faster-whisper
+
+# Fallback text-to-speech (CPU, lightweight)
+pyttsx3
+
+# LLM subprocess caller
+# (ollama must be installed separately, not via pip)
+# https://ollama.com/download
+
+# VibeVoice community fork (install from source, see below)
+# git clone https://github.com/vibevoice-community/VibeVoice.git
+# cd VibeVoice && pip install -e .
+
+# PyTorch (CPU-only wheels from official index)
+torch --index-url https://download.pytorch.org/whl/cpu
